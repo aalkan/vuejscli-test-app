@@ -1,18 +1,15 @@
-# urun-islemleri
+# vue-cli ogrenme asamasinda gelistirilen bir app
+ 
 
-> A Vue.js project
+> Vue Projesiin Projenin olduğu yere gelerek
 
-## Build Setup
-
-``` bash
-# install dependencies
+# bağımlılıkları yüklemek için
 npm install
 
-# serve with hot reload at localhost:8080
+# uygulamayı çalıştırmak için
 npm run dev
 
-# build for production with minification
+# projeyi production ortamına derlemek için
 npm run build
-```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+# firabase bilgilerini değiştiriniz
